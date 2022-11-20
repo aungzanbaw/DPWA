@@ -1,0 +1,10 @@
+{
+    "name": "Dummy PWA",
+    "short_name": "DPWA",
+    "short_url": "/?home=true",
+    "icons":[],
+    "theme_color": "#000000",
+    "background_color": "#FFFFFF",
+    "display": "fullscreen",
+    "orientation": "portrait"
+}
